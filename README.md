@@ -1,16 +1,41 @@
-### Hi there 👋
+<div align="center">
+    <h1>Hi there, I'm [Your Name] 👋</h1>
+    <h3>Flutter Developer | Cyber Security Enthusiast</h3>
+</div>
 
-<!--
-**mehroshkw/mehroshkw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 About Me
 
-Here are some ideas to get you started:
+- 🎓 BS IT graduate with a CGPA of 3.13
+- 💼 Currently working as a Flutter Developer
+- 📱 1+ year of experience in Flutter app development
+- 💻 Previously worked with HTML, CSS, Bootstrap, and PHP for web development
+- 📱 Also experienced in Android app development using Java
+- 🌐 Proficient in API development using PHP
+- 🔒 Passionate about cybersecurity and ethical hacking
+- 🎯 Quick learner, always seeking new certifications and learning opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Tools
+
+- 💙 Flutter | Getx | Bloc
+- 🌐 HTML | CSS | Bootstrap | PHP
+- 📱 Java | Android Studio
+- 🛠️ API Development | RESTful APIs
+- 🖥️ Git | GitHub
+
+## 🌟 Achievements
+
+- 🏆 [List any notable achievements or certifications here]
+
+## 🌱 Current Goals
+
+- 📚 Expanding knowledge in cybersecurity
+- 🚀 Mastering advanced Flutter concepts
+- 🎯 Enhancing API development skills
+- 📑 Pursuing relevant certifications
+
+## 📫 Let's Connect!
+
+- [LinkedIn]([https://www.linkedin.com/in/[your-linkedin-profile]](https://www.linkedin.com/in/mehrosh-khan-wardag-a80433223/))
+- [Website](https://www.yourwebsite.com)
+
+Feel free to reach out to me. Let's collaborate and create something amazing together!
