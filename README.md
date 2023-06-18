@@ -4,7 +4,7 @@
 </div>
 
 
-    <img src="https://photos.app.goo.gl/92qk4A3R9uz44Dwa8" alt="Animated Image" width="400px" height="300px">
+    <img src="https://photos.app.goo.gl/V5GkehdpzM9vToTs6" alt="Animated Image" width="400px" height="300px">
 
 
 ## 📚 About Me
