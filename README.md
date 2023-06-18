@@ -2,7 +2,21 @@
 <div align = "center">
       <img src="https://github.com/mehroshkw/mehroshkw/blob/main/Black%20Yellow%20And%20Green%20Modern%20Sales%20Manager%20LinkedIn%20Article%20Cover%20Image%20(1).png" alt="Animated Image" width="100%" >
 </div>
-  
+
+
+  <div>
+    <a href="https://www.linkedin.com/in/mehroshkw/" target="_blank">
+        <img src="[linkedin-icon.png](https://github.com/mehroshkw/mehroshkw/blob/main/1.png)" alt="LinkedIn" width="30" height="30">
+    </a>
+    <a href="https://www.linkedin.com/in/mehroshkw/" target="_blank">
+        <img src="[linkedin-icon.png](https://github.com/mehroshkw/mehroshkw/blob/main/1.png)" alt="LinkedIn" width="30" height="30">
+    </a>
+     <a href="https://www.linkedin.com/in/mehroshkw/" target="_blank">
+        <img src="[linkedin-icon.png](https://github.com/mehroshkw/mehroshkw/blob/main/1.png)" alt="LinkedIn" width="30" height="30">
+    </a>
+    
+</div>
+
 
 
 ## 📚 About Me
