@@ -3,6 +3,10 @@
     <h3>Flutter Developer | Cyber Security Enthusiast</h3>
 </div>
 
+<p align="center">
+    <img src="https://photos.app.goo.gl/92qk4A3R9uz44Dwa8" alt="Animated Image" width="400px" height="300px">
+</p>
+
 ## 📚 About Me
 
 - 🎓 BS IT graduate with a CGPA of 3.13
