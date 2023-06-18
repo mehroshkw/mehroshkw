@@ -6,13 +6,13 @@
 
   <div align = "center">
     <a href="https://www.linkedin.com/in/mehroshkw/" target="_blank">
-        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/1.png" alt="LinkedIn" width="90" height="90">
+        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/1.png" alt="LinkedIn" >
     </a>
     <a href="https://www.linkedin.com/in/mehroshkw/" target="_blank">
-        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/1.png" alt="LinkedIn" width="90" height="90">
+        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/1.png" alt="LinkedIn" >
     </a>
      <a href="https://www.linkedin.com/in/mehroshkw/" target="_blank">
-        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/1.png" alt="LinkedIn" width="120" height="120">
+        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/1.png" alt="LinkedIn" >
     </a>
     
 </div>
