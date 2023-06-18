@@ -38,7 +38,9 @@
 - 🎯 Quick learner, always seeking new certifications and learning opportunities
 
 ## 🔧 Tech Stack & Tools
-
+<div align = "center">
+      <img src="https://github.com/mehroshkw/mehroshkw/blob/main/Dark%20Blue%20Modern%20Digital%20Marketing%20Agency%20Linkedin%20Banner.png" alt="Animated Image" width="100%" >
+</div>
 - 💙 Flutter | Getx | Bloc
 - 🌐 HTML | CSS | Bootstrap | PHP
 - 📱 Java | Android Studio
