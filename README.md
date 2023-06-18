@@ -5,7 +5,7 @@
 
 
 <div align = "center">
-      <img src="https://github.com/mehroshkw/mehroshkw/blob/main/Black%20Yellow%20And%20Green%20Modern%20Sales%20Manager%20LinkedIn%20Article%20Cover%20Image.png" alt="Animated Image" width="400px" height="300px">
+      <img src="https://github.com/mehroshkw/mehroshkw/blob/main/Black%20Yellow%20And%20Green%20Modern%20Sales%20Manager%20LinkedIn%20Article%20Cover%20Image.png" alt="Animated Image" width="100%" >
 </div>
   
 
