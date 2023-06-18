@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi there, I'm [Your Name] 👋</h1>
+    <h1>Hi there, I'm Mehrosh Khan Wardag 👋</h1>
     <h3>Flutter Developer | Cyber Security Enthusiast</h3>
 </div>
 
@@ -35,7 +35,7 @@
 
 ## 📫 Let's Connect!
 
-- [LinkedIn]([https://www.linkedin.com/in/[your-linkedin-profile]](https://www.linkedin.com/in/mehrosh-khan-wardag-a80433223/))
+- [LinkedIn](https://www.linkedin.com/in/mehrosh-khan-wardag-a80433223/)
 - [Website](https://www.yourwebsite.com)
 
 Feel free to reach out to me. Let's collaborate and create something amazing together!
