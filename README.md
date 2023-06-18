@@ -49,7 +49,13 @@
 
 ## 🌟 Achievements
 
-- 🏆 [List any notable achievements or certifications here]
+- 🏆 [OSINT: Content Discovery](https://www.udemy.com/certificate/UC-32f8ae13-2b61-4a9b-8403-cd1fbb8cf1ea/)
+- 🏆 [Agile Project Management](https://www.coursera.org/account/accomplishments/verify/W3T8SWFNFKP7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- 🏆 [Project Execution: Running the Project](https://www.coursera.org/account/accomplishments/verify/9DNP8QJX5X9L?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- 🏆 [Flutter Bootcamp](https://certificate.givemycertificate.com/c/7b5d4f62-7c70-43fa-b29d-2e9e93fb303c)
+- 🏆 [Ethical Hacking for Beginners](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzIwIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDAwNjU0NV8xNjcwODUzNTAxLnBuZyIsInVzZXJuYW1lIjoiTWVocm9zaCBLaGFuIFdhcmRhZyJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4208%2FEthical-Hacking%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=970198800085215286&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVjzQzyog0Myv2KEsCAG7ZPQklAAAA)
+- 🏆 [Introduction to Ethical Hacking](https://drive.google.com/file/d/1FHzbYcgQIZO6R5PgZegdR6hzIo_FmSLL/view)
+- 🏆 [Build and Optimize Data Warehouses with BigQuery](https://developers.google.com/profile/u/105672212927423525704?authuser=0)
 
 ## 🌱 Current Goals
 
