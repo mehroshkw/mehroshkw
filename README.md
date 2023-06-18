@@ -4,7 +4,7 @@
 </div>
 
 
-  <div align = "center", style="padding: 200px;">
+  <div align = "center", style="margin-left: 150px; margin-right: 150px;"">
     <a href="https://www.linkedin.com/in/mehroshkw/" target="_blank">
         <img src="https://github.com/mehroshkw/mehroshkw/blob/main/1.png" alt="LinkedIn" width="150" height="120" >
     </a>
