@@ -4,7 +4,7 @@
 </div>
 
 
-  <div>
+  <div align = "center">
     <a href="https://www.linkedin.com/in/mehroshkw/" target="_blank">
         <img src="[linkedin-icon.png](https://github.com/mehroshkw/mehroshkw/blob/main/1.png)" alt="LinkedIn" width="30" height="30">
     </a>
