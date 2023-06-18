@@ -3,6 +3,7 @@
       <img src="https://github.com/mehroshkw/mehroshkw/blob/main/Black%20Yellow%20And%20Green%20Modern%20Sales%20Manager%20LinkedIn%20Article%20Cover%20Image%20(1).png" alt="Animated Image" width="100%" >
 </div>
 
+## 📫 Let's Connect!
 
   <div align = "center" style="margin-left: 200px; margin-right: 200px;">
     <a href="https://www.linkedin.com/in/mehroshkw/" target="_blank">
@@ -27,7 +28,7 @@
 
 ## 📚 About Me
 
-- 🎓 BS IT graduate with a CGPA of 3.13
+- 🎓 BS Information Technology graduate
 - 💼 Currently working as a Flutter Developer
 - 📱 1+ year of experience in Flutter app development
 - 💻 Previously worked with HTML, CSS, Bootstrap, and PHP for web development
@@ -55,9 +56,6 @@
 - 🎯 Enhancing API development skills
 - 📑 Pursuing relevant certifications
 
-## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/mehrosh-khan-wardag-a80433223/)
-- [Website](https://www.yourwebsite.com)
 
 Feel free to reach out to me. Let's collaborate and create something amazing together!
