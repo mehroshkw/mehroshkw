@@ -6,7 +6,7 @@
 
   <div align = "center" style="margin-left: 200px; margin-right: 200px;">
     <a href="https://www.linkedin.com/in/mehroshkw/" target="_blank">
-        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/1.png" alt="LinkedIn" width="150" height="120" >
+        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/1.png" alt="LinkedIn" height="120" >
     </a>
     <a href="https://www.instagram.com/mehroshkw/" target="_blank">
         <img src="https://github.com/mehroshkw/mehroshkw/blob/main/2.png" alt="Instagram" width="150" height="120">
