@@ -6,19 +6,19 @@
 
   <div align = "center" style="margin-left: 200px; margin-right: 200px;">
     <a href="https://www.linkedin.com/in/mehroshkw/" target="_blank">
-        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/1.png" alt="LinkedIn" height="120" >
+        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/1.png" alt="LinkedIn" height="90" >
     </a>
     <a href="https://www.instagram.com/mehroshkw/" target="_blank">
-        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/2.png" alt="Instagram" width="150" height="120">
+        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/2.png" alt="Instagram"  height="90">
     </a>
      <a href="https://stackoverflow.com/users/16777773/mehrosh-khan-wardag" target="_blank">
-        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/3.png" alt="StackOverFlow" width="150" height="120">
+        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/3.png" alt="StackOverFlow" height="90">
     </a>
       <a href="https://www.facebook.com/mehrosh.khan.9847" target="_blank">
-        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/4.png" alt="Facebook" width="150" height="120">
+        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/4.png" alt="Facebook" height="90">
     </a>
       <a href="https://www.tiktok.com/@mehroshkw" target="_blank">
-        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/5.png" alt="Tiktok" width="150" height="120">
+        <img src="https://github.com/mehroshkw/mehroshkw/blob/main/5.png" alt="Tiktok" height="90">
     </a>
     
 </div>
