@@ -1,6 +1,5 @@
 <div align="center">
-    <h1>Hi there, I'm Mehrosh Khan Wardag 👋</h1>
-    <h3>Flutter Developer | Cyber Security Enthusiast</h3>
+    <h1>Hi there👋</h1>
 </div>
 
 
