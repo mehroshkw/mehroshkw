@@ -1,6 +1,6 @@
 
 <div align = "center">
-      <img src="https://github.com/mehroshkw/mehroshkw/blob/main/Black%20Yellow%20And%20Green%20Modern%20Sales%20Manager%20LinkedIn%20Article%20Cover%20Image%20(1).png" alt="Animated Image" width="100%" >
+      <img src="https://github.com/mehroshkw/mehroshkw/blob/main/bg.png" alt="Animated Image" width="100%" >
 </div>
 
 ## 📫 Let's Connect!
