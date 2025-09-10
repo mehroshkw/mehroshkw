@@ -1,6 +1,6 @@
 
 <div align = "center">
-      <img src="https://github.com/mehroshkw/mehroshkw/blob/main/bg.png" alt="Animated Image" width="100%" >
+      <img src="https://github.com/mehroshkw/mehroshkw/blob/main/1731421773249.jpeg" alt="Animated Image" width="100%" >
 </div>
 
 ## 📫 Let's Connect!
